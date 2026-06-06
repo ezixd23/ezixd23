@@ -100,7 +100,7 @@ A self-hosted security operations stack, built and wired together by hand.
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ziad-el-karrabi">
+  <a href="https://www.linkedin.com/in/ziad-el-karrabi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
