@@ -99,15 +99,6 @@ A self-hosted security operations stack, built and wired together by hand.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezixd23&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&title_color=00E0D5&icon_color=00E0D5&text_color=D3D3D3&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezixd23&layout=compact&hide_border=true&title_color=00E0D5&text_color=D3D3D3&bg_color=0D1117" width="38%"/>
-</div>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ziad-el-karrabi">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
