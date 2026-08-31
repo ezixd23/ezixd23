@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Switzerland%20%F0%9F%87%A8%F0%9F%87%AD-355E3B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Barcelona%2C%20Spain%20🇪🇸-355E3B?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-DevSecOps%20%2F%20Security%20Engineering-00E0D5?style=flat-square&labelColor=1a1a1a" />
   <a href="https://www.linkedin.com/in/ziad-el-karrabi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
